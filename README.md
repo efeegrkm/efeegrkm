@@ -20,7 +20,7 @@ I am a 4th-year Computer Engineering student at TOBB University of Economics and
 
 ### Skills & Technologies
 
-* **Programming Languages:** C#, Java, Python, C++, Verilog/VHDL, MATLAB
+* **Programming Languages:** C#, Java, Python, C, C++, Verilog/VHDL, MATLAB
 * **Game Development & 3D:** Unity, 3D Modeling
 * **Artificial Intelligence:** Machine Learning, Deep Learning
 * **Electronics & Hardware:** PCB Design (Altium), Analog and Digital Electronic Circuit Design/Analysis
