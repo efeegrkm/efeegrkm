@@ -13,7 +13,6 @@ I am a 4th-year Computer Engineering student at TOBB University of Economics and
 **Game Jams (2023 - Present)**
 * **Aydın Game Jam:** 1st Place.
 * **Rakun Game Jam:** 2nd Place & Best Sound Design (with team "Calico").
-* **April 2026 Game Jam:** 3rd Place Overall & Best Sound Design.
 * **Other Participations:** Atom Game Jam, TOBB Game Jam, TEDU Game Jam.
 
 **Algorithm Competitions**
