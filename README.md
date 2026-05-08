@@ -36,16 +36,8 @@ I am a 4th-year Computer Engineering student at TOBB University of Economics and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=efeegrkm&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" width="48%" />
 </div>
 
-### My Problem Solving Stats (LeetCode)
-
-<div align="center">
-  <a href="https://leetcode.com/u/eakkanat/">
-    <img src="https://leetcard.jacoblin.cool/eakkanat?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" width="100%"/>
-  </a>
-</div>
-
 ---
 
 ### Connect with Me
-
+* **g-mail:** efegrkm1@gmail.com
 * **Portfolio:** [View my Projects & Certificates (Google Drive)](https://drive.google.com/drive/folders/1C-Uwk4ooelGP-sP9dVIIb8PQqghNVrFz?usp=sharing)
