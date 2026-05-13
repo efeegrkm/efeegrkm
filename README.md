@@ -18,7 +18,7 @@ I am a 4th-year Computer Engineering student at TOBB University of Economics and
 **Algorithm Competitions**
 * Active participant in the **Turkish Programming Contest (TPC)** and **inzva Algoleague**, focusing on advanced data structures and complex problem-solving.
 
-###Team Calico foundation
+### Team Calico foundation
 * We met many talented individuals through various GameJams and formed Team Calico with some of the best names in the industry. If you’d like to explore our work and achievements or get in touch with us, feel free to visit our website:
 * https://www.teamcalico.com
   
